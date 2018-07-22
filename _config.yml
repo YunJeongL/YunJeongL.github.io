@@ -1,4 +1,6 @@
-# site settings
+---
 title : IT note
-url :"http://YunJeongL.github.io"
-name : "Yun Jeong LEE"
+name : Yun Jeong LEE
+url : https://YunJeongL.github.io
+timezone : Korea/Seoul
+---
