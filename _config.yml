@@ -3,6 +3,6 @@ title : "My IT note"
 author : Yun Jeong LEE
 url : "https://YunJeongL.github.io"
 baseurl : ""
-
+_post 
 theme: jekyll-theme-merlot
 ---
