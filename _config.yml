@@ -6,3 +6,5 @@ url : "https://YunJeongL.github.io"
 baseurl : ""
 gems: [jekyll-paginate,jekyll-seo-tag,jekyll-sitemap]
 ---
+
+theme: jekyll-theme-merlot
